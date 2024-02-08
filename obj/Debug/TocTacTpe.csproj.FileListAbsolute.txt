@@ -1,0 +1,15 @@
+C:\Users\LG gram\source\repos\TocTacTpe\bin\Debug\TocTacTpe.exe.config
+C:\Users\LG gram\source\repos\TocTacTpe\bin\Debug\TocTacTpe.exe
+C:\Users\LG gram\source\repos\TocTacTpe\bin\Debug\TocTacTpe.pdb
+C:\Users\LG gram\source\repos\TocTacTpe\obj\Debug\TocTacTpe.csproj.AssemblyReference.cache
+C:\Users\LG gram\source\repos\TocTacTpe\obj\Debug\MainWindow.g.cs
+C:\Users\LG gram\source\repos\TocTacTpe\obj\Debug\App.g.cs
+C:\Users\LG gram\source\repos\TocTacTpe\obj\Debug\TocTacTpe_MarkupCompile.cache
+C:\Users\LG gram\source\repos\TocTacTpe\obj\Debug\TocTacTpe_MarkupCompile.lref
+C:\Users\LG gram\source\repos\TocTacTpe\obj\Debug\MainWindow.baml
+C:\Users\LG gram\source\repos\TocTacTpe\obj\Debug\TocTacTpe.g.resources
+C:\Users\LG gram\source\repos\TocTacTpe\obj\Debug\TocTacTpe.Properties.Resources.resources
+C:\Users\LG gram\source\repos\TocTacTpe\obj\Debug\TocTacTpe.csproj.GenerateResource.cache
+C:\Users\LG gram\source\repos\TocTacTpe\obj\Debug\TocTacTpe.csproj.CoreCompileInputs.cache
+C:\Users\LG gram\source\repos\TocTacTpe\obj\Debug\TocTacTpe.exe
+C:\Users\LG gram\source\repos\TocTacTpe\obj\Debug\TocTacTpe.pdb
